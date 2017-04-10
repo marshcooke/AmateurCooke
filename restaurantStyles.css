@@ -1,6 +1,13 @@
 h1 {
     color: navy;
-}
+    text-align: center;
+  }
+      footer {
+    text-align: center;
+  }
+      a {
+    text-align: left;
+  }
   a:visited {
     color: green;
 }
