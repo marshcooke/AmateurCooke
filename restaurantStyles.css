@@ -1,1 +1,15 @@
-
+<style>
+h1 {
+    color: navy;
+}
+  a {
+    text-decoration: none;
+  }
+  
+  a: hover {
+    text-decoration: underline;
+}
+  a: visited {
+    color: green;
+}
+</style>
