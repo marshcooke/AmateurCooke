@@ -3,12 +3,15 @@ h1 {
     text-align: center;
     font-family: 'Sans-Serif';
   }
-      footer {
+tr {
+    font-size: large;
+}
+footer {
     text-align: center;
   }
-      a {
+a {
     text-align: left;
   }
-  a:visited {
+a:visited {
     color: green;
 }
