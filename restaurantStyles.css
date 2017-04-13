@@ -11,16 +11,14 @@ footer {
   }
 a {
     text-align: left;
+    text-decoration: none;
   }
 a:link {
     color: navy;
 }
-a:active {
-    text-decoration: none;
+a:visited {
+    color: green;
 }
 a:hover {
     font-weight: bold;
-}
-a:visited {
-    color: green;
 }
